@@ -1,1 +1,1 @@
-# HackWestern
+# Our project for HackWestern
